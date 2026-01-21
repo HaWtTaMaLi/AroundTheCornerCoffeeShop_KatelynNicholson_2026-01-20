@@ -144,6 +144,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Switch
     second: {fileID: 2100000, guid: c72977929a64cf042a427299d2af46e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tea
+    second: {fileID: 2100000, guid: c09be33f541ef524a97c060767382732, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
