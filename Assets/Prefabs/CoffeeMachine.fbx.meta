@@ -13,7 +13,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Base.001
-    second: {fileID: 2100000, guid: c671c50942f6f58458548ad7d188cf95, type: 2}
+    second: {fileID: 2100000, guid: 7c165993668ef74408a1be077dd06e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base.002
+    second: {fileID: 2100000, guid: 618d1f87011248e4ab91e99d1350e235, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -27,48 +32,8 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Cup.001
-    second: {fileID: 2100000, guid: 32dd5dc658262b94bb4097d4e12cc8dd, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Cup.002
-    second: {fileID: 2100000, guid: 48e0bfb0776d32c4b8208a9356334cc8, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
       name: Dripper
     second: {fileID: 2100000, guid: 03c43012565e6844db3f859b82149ae1, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dripper.001
-    second: {fileID: 2100000, guid: cc460c32e4327244081bde87c975d2e4, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dripper.002
-    second: {fileID: 2100000, guid: c3d6646eaf62afc42a27c728c5491325, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dripper.003
-    second: {fileID: 2100000, guid: 59b27e4509f15be40b2ed3d5a1bd1975, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dripper.004
-    second: {fileID: 2100000, guid: b953bc6970e29914581f88e0399dd28b, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dripper.006
-    second: {fileID: 2100000, guid: ce0b546a040bb60409a93f0a2f22da04, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Dripper.007
-    second: {fileID: 2100000, guid: ddb6047a027151f499c32aacb443b3ef, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -82,18 +47,23 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.001
-    second: {fileID: 2100000, guid: fafd6ccedfad91a4cadb3fd8cc7df636, type: 2}
+      name: Lever.001
+    second: {fileID: 2100000, guid: fed813a164dba1042b9ecf1521817a5d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.003
-    second: {fileID: 2100000, guid: 66ad56c0cc0ada2459cd55b5e4b168eb, type: 2}
+      name: Lever.002
+    second: {fileID: 2100000, guid: 349fc290142438c42b9bb8703521dace, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: Material.004
-    second: {fileID: 2100000, guid: 6dbe589072b4fde43be96fcfd691e902, type: 2}
+      name: Lever.003
+    second: {fileID: 2100000, guid: f54c67c2989eaac4a97655fd8ab446b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lever.004
+    second: {fileID: 2100000, guid: 89da0a287a9fe074eace922905025f02, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -108,22 +78,12 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Plastic.001
-    second: {fileID: 2100000, guid: 9df9fbd793a25ef4392e06045ede0f00, type: 2}
+    second: {fileID: 2100000, guid: 104547f570ee5fc4e961bb4b65a6186b, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Plastic.002
-    second: {fileID: 2100000, guid: 41d5868ac033e3d4dbcc2eb944961ef2, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plastic.003
-    second: {fileID: 2100000, guid: 0634015cd90d1ae47b5025e74cebb933, type: 2}
-  - first:
-      type: UnityEngine:Material
-      assembly: UnityEngine.CoreModule
-      name: Plastic.004
-    second: {fileID: 2100000, guid: 1260e5693cc0f2d49a815c3a992f4b76, type: 2}
+    second: {fileID: 2100000, guid: 78f4bcc71f2bf4e4aa1696fb2e7d5859, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
