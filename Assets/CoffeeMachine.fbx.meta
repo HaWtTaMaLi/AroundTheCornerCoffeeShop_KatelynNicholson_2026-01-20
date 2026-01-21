@@ -3,7 +3,42 @@ guid: f3336a3fc5304a7429ab91c3449efe89
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Base
+    second: {fileID: 2100000, guid: 076b97cb4a6f82e49b0d4e07981e511a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Burner
+    second: {fileID: 2100000, guid: f01370be8166b204492e5dafeb6f3788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lever
+    second: {fileID: 2100000, guid: 42ff2940532e8444eb7116518ac21145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: fafd6ccedfad91a4cadb3fd8cc7df636, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 89c062859a188874491ccfd7965ccd2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic
+    second: {fileID: 2100000, guid: 5aad74efcac80ad4bb1668de62e4f18f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Switch
+    second: {fileID: 2100000, guid: c72977929a64cf042a427299d2af46e3, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
