@@ -12,8 +12,53 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Base.001
+    second: {fileID: 2100000, guid: 2cff01937629bee4aa62453c5db3f286, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Burner
     second: {fileID: 2100000, guid: f01370be8166b204492e5dafeb6f3788, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cup
+    second: {fileID: 2100000, guid: 89954d8a1f1234d4f900eef38d3a53ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cup.001
+    second: {fileID: 2100000, guid: e4cb9f27d315a424b8320439e0bb1def, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dripper
+    second: {fileID: 2100000, guid: 03c43012565e6844db3f859b82149ae1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dripper.001
+    second: {fileID: 2100000, guid: 53b56242361c51c4c8957bf8b34c31fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dripper.002
+    second: {fileID: 2100000, guid: 11f8ad1b0998bc348af2f5ce1e814b69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dripper.003
+    second: {fileID: 2100000, guid: e0d0c7b91dc126749b8e6631d68b04ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dripper.006
+    second: {fileID: 2100000, guid: 8c2ec3d845b219b4aaebacedd7fb97d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dripper.007
+    second: {fileID: 2100000, guid: 909700002ca256544bdd07cd38a69f53, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
@@ -27,6 +72,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: 62f2ec4b90405374dae41959f6d89b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 0e005710576c4074d9afb751395e68c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Material.006
     second: {fileID: 2100000, guid: 89c062859a188874491ccfd7965ccd2e, type: 2}
   - first:
@@ -34,6 +89,36 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Plastic
     second: {fileID: 2100000, guid: 5aad74efcac80ad4bb1668de62e4f18f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic.002
+    second: {fileID: 2100000, guid: 4c903590f4052e44a924dddb5c0cdcb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic.003
+    second: {fileID: 2100000, guid: b7f0ee907f5541846a67324ef4fb3a69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plastic.004
+    second: {fileID: 2100000, guid: aa287ab2208c89e44891fff0aba9de1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ReadyLight
+    second: {fileID: 2100000, guid: 1ea8f56d93e3b154191fdfb1dc323bae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sleeve
+    second: {fileID: 2100000, guid: ca92d31fcbf08ba42837092e2dbc388f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: StartButton
+    second: {fileID: 2100000, guid: 61523b31b7d5750449afaef88e9a1fb6, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
